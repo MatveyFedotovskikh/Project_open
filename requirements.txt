@@ -1,0 +1,8 @@
+FastAPI
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+python-dotenv
+requests
+beautifulsoup4
